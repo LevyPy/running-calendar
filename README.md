@@ -4,17 +4,14 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [x] 06/08/2023 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
  - [x] 13/08/2023 - [Festival Energy Land](https://www.festivalenergyland.com.br/rio-de-janeiro-corrida/index.html)
- - Retirada do kit: a definir
+   * Retirada do kit: a definir
  - [x] 20/08/2023 - 25 anos RF
  - [x] 10/09/2023 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [x] 28/10/2023 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
 
 ## Anteriores:
-
-02/07/2023 - Running For Animals 10k
 
 <details>
   <summary>
@@ -43,7 +40,28 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      3ª Running for animals
+      06/08/2023 - Desafio Tupinambá 16k
+    </h2>
+  </summary>
+  
+  - Data: 06/08/2023
+  - Distância: 16 km
+  - Tempo:
+     * Bruto: 02:33:59
+     * Líquido: 02:33:45
+     * Ritmo por Km: 09:36
+  - Colocação:
+     * Geral: 64 / 124
+     * Por Categoria: 18 / 28
+     * Categoria: M3039
+  - Número de peito: 1058
+  - Equipe: RF SPORTS
+</details>
+
+<details>
+  <summary>
+    <h2>
+      02/07/2023 - 3ª Running for animals
     </h2>
   </summary>
   
@@ -64,7 +82,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Maratona do Rio
+      10/06/2023 - Maratona do Rio
     </h2>
   </summary>
   
@@ -85,7 +103,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Meia Maratona da Cidade do Rio de Janeiro
+      08/07/2012 - Meia Maratona da Cidade do Rio de Janeiro
     </h2>
   </summary>
   
@@ -106,7 +124,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Corre aí na Sapucaí
+      12/02/2012 - Corre aí na Sapucaí
     </h2>
   </summary>
   
@@ -127,7 +145,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Corrida da Longevidade
+      18/12/2011 - Corrida da Longevidade
     </h2>
   </summary>
   
@@ -148,7 +166,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      São João Run
+      02/12/2011 - São João Run
     </h2>
   </summary>
   
@@ -169,7 +187,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Pique Unimed
+      16/10/2011 - Pique Unimed
     </h2>
   </summary>
   
