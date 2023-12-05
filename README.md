@@ -4,37 +4,39 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [x] 06/08/2023 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
- - [x] 13/08/2023 - [Festival Energy Land](https://www.festivalenergyland.com.br/rio-de-janeiro-corrida/index.html)
- - Retirada do kit: a definir
- - [x] 20/08/2023 - 25 anos RF
- - [x] 10/09/2023 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
- - [x] 28/10/2023 - [XC Búzios](https://www.xcrun.com.br)
+ - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+ - [ ] ? 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+ - [ ] ? 18/08/2024 - 26 anos RF
+ - [ ] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
+ - [ ] ? 26/10/2024 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
 
-## Anteriores:
+[//]: # ( 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ )
+[//]: # ( 18/08/2024 - A Muralha Up and Down Marathon – Percurso UP-https://www.amuralha.com.br/ )
+[//]: # ( * )
 
-02/07/2023 - Running For Animals 10k
+## Anteriores:
 
 <details>
   <summary>
     <h2>
-      Nome_corrida
+      dd/mm/aaaa - Nome_corrida
     </h2>
   </summary>
   
   - Data: 
   - Distância: 
   - Tempo:
-     * Bruto:
-     * Líquido:
-     * Ritmo por Km:
+     * Bruto: 
+     * Líquido: 
+     * Ritmo por Km: 
   - Colocação:
-     * Geral:
-     * Por Categoria:
-     * Categoria:
+     * Geral: 
+     * Por Categoria: 
+     * Categoria: 
   - Número de peito: 
   - Equipe: 
+  - Strava: 
 
   ### Marcas
   PB / WR / OR
@@ -43,7 +45,131 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      3ª Running for animals
+      12/11/2023 - Off Road Niterói
+    </h2>
+  </summary>
+  
+  - Data: 12/11/2023
+  - Distância: 21,095 Km
+  - Tempo:
+     * Bruto: 2:29:31.28
+     * Líquido: 2:29:09.83
+     * Ritmo por Km: 07:06
+  - Colocação:
+     * Geral: 42
+     * Por Categoria: 10 / 16
+     * Categoria: M3039
+  - Número de peito: 2021
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/10205640006
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      28/10/2023 - XC Run Búzios 21k
+    </h2>
+  </summary>
+  
+  - Data: 28/10/2023
+  - Distância: 21,095 Km
+  - Tempo:
+       | **Trecho** |  **Tempo** | **Posição** |
+       |:----------:|:----------:|:-----------:|
+       | Levy - 1   | 1:07:38.21 |      89     |
+       | Levy - 2   | 1:39:18.34 |     163     |
+       | Nanci - 3  | 0:59:17.87 |      92     |
+       | Nanci - 4  | 1:25:57.69 |     115     | 
+  - Colocação:
+     * Geral: 
+     * Por Categoria: 
+     * Categoria: 
+  - Número de peito: 2029
+  - Equipe: 
+  - Strava: https://www.strava.com/activities/10118412525
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      10/09/2023 - Meia Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 10/09/2023
+  - Distância: 21,095 Km
+  - Tempo:
+     * Bruto: 1:57:42.14
+     * Líquido: 1:57:03.83
+     * Ritmo por Km: 05:36
+  - Colocação:
+     * Geral: 309
+     * Por Categoria: 84 / 178
+     * Categoria: M3039
+  - Número de peito: 2338
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/9820929740
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      20/08/2023 - 25 anos RF
+    </h2>
+  </summary>
+  
+  - Data: 20/08/2023
+  - Distância: 5 km
+  - Tempo:
+     * Bruto: 00:26:11
+     * Líquido: 00:26:11
+     * Ritmo por Km: 05:12
+  - Colocação:
+     * Geral: -
+     * Por Categoria: -
+     * Categoria: -
+  - Número de peito: 61
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/9684573669
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      06/08/2023 - Desafio Tupinambá 16k
+    </h2>
+  </summary>
+  
+  - Data: 06/08/2023
+  - Distância: 16 km
+  - Tempo:
+     * Bruto: 02:33:59
+     * Líquido: 02:33:45
+     * Ritmo por Km: 09:36
+  - Colocação:
+     * Geral: 64 / 124
+     * Por Categoria: 18 / 28
+     * Categoria: M3039
+  - Número de peito: 1058
+  - Equipe: RF SPORTS
+</details>
+
+<details>
+  <summary>
+    <h2>
+      02/07/2023 - 3ª Running for animals
     </h2>
   </summary>
   
@@ -64,7 +190,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Maratona do Rio
+      10/06/2023 - Maratona do Rio
     </h2>
   </summary>
   
@@ -85,7 +211,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Meia Maratona da Cidade do Rio de Janeiro
+      08/07/2012 - Meia Maratona da Cidade do Rio de Janeiro
     </h2>
   </summary>
   
@@ -106,7 +232,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Corre aí na Sapucaí
+      12/02/2012 - Corre aí na Sapucaí
     </h2>
   </summary>
   
@@ -127,7 +253,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Corrida da Longevidade
+      18/12/2011 - Corrida da Longevidade
     </h2>
   </summary>
   
@@ -148,7 +274,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      São João Run
+      02/12/2011 - São João Run
     </h2>
   </summary>
   
@@ -169,7 +295,7 @@ Description (to-do)
 <details>
   <summary>
     <h2>
-      Pique Unimed
+      16/10/2011 - Pique Unimed
     </h2>
   </summary>
   
