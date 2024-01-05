@@ -1,12 +1,19 @@
 # running-calendar
-Seguindo: https://docs.github.com/en/get-started/quickstart/github-flow
-Fazendo nova branch e adicionando as alterações
-    git checkout -b nova-branch
-    git add -A
-    git commit -m "Corrigidos erros de digitação na documentação"
-    git status
-    git push --set-upstream origin nova-branch
-    Abrir o pull request
+
+<!--
+     Seguindo: https://docs.github.com/en/get-started/quickstart/github-flow
+     Fazendo nova branch e adicionando as alterações
+         git checkout -b nova-branch
+         git add -A
+         git commit -m "Corrigidos erros de digitação na documentação"
+         git status
+         git push --set-upstream origin nova-branch
+         Abrir o pull request
+
+     Fazendo upodate em atualização
+         git push
+         git add -A
+-->
 
 Description (to-do)
 
@@ -15,10 +22,11 @@ Description (to-do)
 
  - [ ] 28/01/2024 - [Circuito Casas Pedro](https://www.ticketsports.com.br/e/Circuito+Casas+Pedro+Viva+Mais-37487)
  - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
- - [ ] ? 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+ - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
+ - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
  - [ ] ? 18/08/2024 - 26 anos RF
  - [ ] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
- - [ ] ? 26/10/2024 - [XC Búzios](https://www.xcrun.com.br)
+ - [ ] 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
 
 [//]: # ( 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ )
