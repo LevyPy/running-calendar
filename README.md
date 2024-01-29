@@ -3,6 +3,7 @@
 <!--
      Seguindo: https://docs.github.com/en/get-started/quickstart/github-flow
      Fazendo nova branch e adicionando as alterações
+         git pull
          git checkout -b nova-branch
          git add -A
          git commit -m "Corrigidos erros de digitação na documentação"
@@ -10,9 +11,12 @@
          git push --set-upstream origin nova-branch
          Abrir o pull request
 
-     Fazendo upodate em atualização
+     Fazendo update em atualização
+         git pull
          git push
          git add -A
+         git commit -m "Corrigidos erros de digitação na documentação"
+         git push
 -->
 
 Description (to-do)
@@ -20,7 +24,7 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [ ] 28/01/2024 - [Circuito Casas Pedro](https://www.ticketsports.com.br/e/Circuito+Casas+Pedro+Viva+Mais-37487)
+ - [ ] 28/01/2024 - [Circuito Corridas Populares de Niterói](https://circuitocpn.com.br/)
  - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
  - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
@@ -33,6 +37,44 @@ Description (to-do)
 [//]: # ( 18/08/2024 - A Muralha Up and Down Marathon – Percurso UP-https://www.amuralha.com.br/ )
 [//]: # ( teste )
 [//]: # ( * )
+
+### Inspirações e metas a atingir:
+
+ - [ ] 5km
+ - [ ] 12:39 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 17:35 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 18:15 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 18:21 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 18:57 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 21:19 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 23:29 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [ x ] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+
+ - [ ] 10km
+ - [ ] 26:31 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 35:42 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 37:56 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 38:58 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 39:22 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+ - [ ] 49:55 - [Levy Py](https://www.strava.com/athletes/15243537)
+
+ - [ ] 21.097,5m MEIA MARATONA
+ - [ ] 1:23:00 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 1:24:29 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 1:25:03 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 1:26:59 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 1:34:30 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 1:42:10 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [ x ] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 ## Anteriores:
 
