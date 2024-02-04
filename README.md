@@ -24,7 +24,8 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [ ] 28/01/2024 - [Circuito Corridas Populares de Niterói](https://circuitocpn.com.br/)
+ - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
+ - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
  - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
  - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
@@ -50,7 +51,7 @@ Description (to-do)
  - [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
  - [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
  - [ ] 23:29 - [Levy Py](https://www.strava.com/athletes/15243537)
- - [ x ] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+ - [x] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
  - [ ] 10km
  - [ ] 26:31 - [Babi Beluco](https://www.strava.com/athletes/10194365)
@@ -61,8 +62,8 @@ Description (to-do)
  - [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
  - [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
  - [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
- - [ ] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
- - [ ] 49:55 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [ ] 47:56 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [x] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
  - [ ] 21.097,5m MEIA MARATONA
  - [ ] 1:23:00 - [Babi Beluco](https://www.strava.com/athletes/10194365)
@@ -74,7 +75,7 @@ Description (to-do)
  - [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
  - [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
  - [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
- - [ x ] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+ - [x] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 ## Anteriores:
 
@@ -98,6 +99,31 @@ Description (to-do)
   - Número de peito: 
   - Equipe: 
   - Strava: 
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      04/02/2024 - CPN Etapa Gragoatá
+    </h2>
+  </summary>
+  
+  - Data: 04/02/2024
+  - Distância: 10 Km
+  - Tempo:
+     * Bruto: 00:47:10
+     * Líquido: 00:47:08
+     * Ritmo por Km: 04:43
+  - Colocação:
+     * Geral: 46 / 185
+     * Por Categoria: 4 / 21
+     * Categoria: M3539
+  - Número de peito: 1322
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/10693377768
 
   ### Marcas
   PB / WR / OR
