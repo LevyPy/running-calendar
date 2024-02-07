@@ -26,8 +26,10 @@ Description (to-do)
 
  - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
  - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
+ - [ ] ?? 24/03/2024 - [Live! Run XP - Rio de janeiro](https://liverun.com.br/etapa/live-run-xp-rio-de-janeiro-2024-parque-olimpico)
  - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
+ - [ ] ?? 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
  - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
  - [ ] ? 18/08/2024 - 26 anos RF
  - [ ] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
