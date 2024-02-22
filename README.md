@@ -3,8 +3,8 @@
 <!--
      Seguindo: https://docs.github.com/en/get-started/quickstart/github-flow
      Fazendo nova branch e adicionando as alterações
-         git pull
-         git checkout -b nova-branch
+         git pull // para puxar tudo que foi atualizado no servidor
+         git checkout -b nova-branch // para criar uma nova branch copiando a atual
          git add -A
          git commit -m "Corrigidos erros de digitação na documentação"
          git status
@@ -13,7 +13,6 @@
 
      Fazendo update em atualização
          git pull
-         git push
          git add -A
          git commit -m "Corrigidos erros de digitação na documentação"
          git push
@@ -24,10 +23,10 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
+ - [ x ] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
  - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
  - [ ] ?? 24/03/2024 - [Live! Run XP - Rio de janeiro](https://liverun.com.br/etapa/live-run-xp-rio-de-janeiro-2024-parque-olimpico)
- - [ ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+ - [ x ] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
  - [ ] ?? 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
  - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
