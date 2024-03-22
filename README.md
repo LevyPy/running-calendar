@@ -12,7 +12,7 @@
          Abrir o pull request
 
      Fazendo update em atualização
-         git pull
+         git pull // para puxar tudo que foi atualizado no servidor
          git add -A
          git commit -m "Corrigidos erros de digitação na documentação"
          git push
@@ -25,8 +25,8 @@ Description (to-do)
 
  - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
  - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
- - [ ] ?? 24/03/2024 - [Live! Run XP - Rio de janeiro](https://liverun.com.br/etapa/live-run-xp-rio-de-janeiro-2024-parque-olimpico)
  - [x] 05/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+ - [x] 18/05/2024 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
  - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
  - [ ] ?? 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
  - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
