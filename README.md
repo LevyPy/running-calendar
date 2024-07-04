@@ -29,12 +29,11 @@ Description (to-do)
  - [ ] ?? 05/05/2024 - [Meia Maratona das Cataratas](http://meiamaratonadascataratas.com.br/)
  - [x] 18/05/2024 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
  - [ ] 30/06/2024 - [Corrida da serra](https://corridadaserra.com.br/)
- - [ ] ? 06/07/2024 - [Running for animals](https://mercyforanimals.org.br/running-for-animals/)
- - [ ] ?? 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
- - [ ] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+ - [ ] 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
+ - [x] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
  - [ ] 17/08/2024 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
  - [ ] ? 18/08/2024 - 26 anos RF
- - [ ] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
+ - [x] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
  - [ ] 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
 
