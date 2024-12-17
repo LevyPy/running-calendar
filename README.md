@@ -1,37 +1,338 @@
 # running-calendar
+
+<!--
+     Seguindo: https://docs.github.com/en/get-started/quickstart/github-flow
+     Fazendo nova branch e adicionando as alterações
+         git pull // para puxar tudo que foi atualizado no servidor
+         git checkout -b nova-branch // para criar uma nova branch copiando a atual
+         git add -A
+         git commit -m "Corrigidos erros de digitação na documentação"
+         git status
+         git push --set-upstream origin nova-branch
+         Abrir o pull request
+
+     Fazendo update em atualização
+         git pull // para puxar tudo que foi atualizado no servidor
+         git add -A
+         git commit -m "Corrigidos erros de digitação na documentação"
+         git push
+-->
+
 Description (to-do)
 
 # Corridas
 ## Próximas:
 
- - [x] 13/08/2023 - [Festival Energy Land](https://www.festivalenergyland.com.br/rio-de-janeiro-corrida/index.html)
-   * Retirada do kit: a definir
- - [x] 20/08/2023 - 25 anos RF
- - [x] 10/09/2023 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
- - [x] 28/10/2023 - [XC Búzios](https://www.xcrun.com.br)
+ - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
+ - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
+ - [x] 04/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+ - [ ] ?? 05/05/2024 - [Meia Maratona das Cataratas](http://meiamaratonadascataratas.com.br/)
+ - [x] 18/05/2024 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
+ - [ ] 30/06/2024 - [Corrida da serra](https://corridadaserra.com.br/)
+ - [ ] 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
+ - [x] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+ - [x] 17/08/2024 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
+ - [ ] ? 18/08/2024 - 26 anos RF
+ - [x] 25/08/2024 - X run Camboinhas
+ - [x] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
+ - [ ] 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
+
+[//]: # ( 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ )
+[//]: # ( 18/08/2024 - A Muralha Up and Down Marathon – Percurso UP-https://www.amuralha.com.br/ )
+[//]: # ( teste )
+[//]: # ( * )
+
+### Inspirações e metas a atingir:
+
+ - [ ] 5km
+ - [ ] 12:39 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 17:35 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 18:15 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 18:21 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 18:57 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 21:19 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 23:13 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [x] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+
+ - [ ] 10km
+ - [ ] 26:31 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 35:42 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 37:56 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 38:58 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 39:22 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 47:56 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [x] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+
+ - [ ] 21.097,5m MEIA MARATONA
+ - [ ] 1:23:00 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+ - [ ] 1:24:29 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+ - [ ] 1:25:03 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+ - [ ] 1:26:59 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+ - [ ] 1:34:30 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+ - [ ] 1:42:10 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+ - [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+ - [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+ - [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
+ - [x] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 ## Anteriores:
 
 <details>
   <summary>
     <h2>
-      Nome_corrida
+      dd/mm/aaaa - Nome_corrida
     </h2>
   </summary>
   
   - Data: 
   - Distância: 
   - Tempo:
-     * Bruto:
-     * Líquido:
-     * Ritmo por Km:
+     * Bruto: 
+     * Líquido: 
+     * Ritmo por Km: 
   - Colocação:
-     * Geral:
-     * Por Categoria:
-     * Categoria:
+     * Geral: 
+     * Por Categoria: 
+     * Categoria: 
   - Número de peito: 
   - Equipe: 
+  - Strava: 
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      01/09/2024 - Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 01/09/2024
+  - Distância: 21,0975 Km
+  - Tempo:
+       |   **Trecho**   |  **Tempo** | **Posição** |
+       |:--------------:|:----------:|:-----------:|
+       | Carol - 1      | 2:03:03.26 |      72     |
+       | Levy - 2       | 1:53:56.34 |      57     |
+  - Colocação:
+     * Geral: 60/124
+     * Por Categoria: 18/45
+     * Categoria: Dupla misto
+  - Número de peito: 2043
+  - Equipe: RF SPORTS
+  - Strava: [Strava](https://www.strava.com/activities/12299122960)
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      04/08/2024 - Desafio Tupinambá 16k
+    </h2>
+  </summary>
+  
+  - Data: 04/08/2024
+  - Distância: 16 km
+  - Tempo:
+     * Bruto: 02:15:29.32
+     * Líquido: 02:15:25.76
+     * Ritmo por Km: 8:27
+  - Colocação:
+     * Geral: 39 / 118
+     * Por Categoria: 11 / 30
+     * Categoria: M3039
+  - Número de peito: 11115
+  - [Strava](https://www.strava.com/activities/12060816183)
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      18/05/2024 - CPN - Etapa Camboinhas
+    </h2>
+  </summary>
+  
+  - Data: 18/05/2024
+  - Distância: 10 km
+  - Tempo:
+     * Bruto: 00:45:38
+     * Líquido: 00:45:30
+     * Ritmo por Km: 4:33
+  - Colocação:
+     * Geral: 65 / 258
+     * Por Categoria: 9 / 38
+     * Categoria: M3539
+  - Número de peito: 1271
+  - Equipe: RF SPORTS
+  - [Strava](https://www.strava.com/activities/11443258357)
+
+  ### Marcas
+  - Record Pessoal:
+     * 5 km: 22:58 / Pace 4:36 min/km
+     * 10 km: 47:39 / Pace 4:46 min/km
+</details>
+
+<details>
+  <summary>
+    <h2>
+      04/05/2024 - Meia Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 04/05/2024
+  - Distância: 21,097 Km
+  - Tempo:
+     * Bruto: 1:43:37.82
+     * Líquido: 1:43:24.15
+     * Ritmo por Km: 04:55
+  - Colocação:
+     * Geral: 147
+     * Por Categoria: 47 / 164
+     * Categoria: M3039
+  - Número de peito: 2122
+  - Equipe: RF SPORTS
+  - [Strava](https://www.strava.com/activities/11331104370)
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      04/02/2024 - CPN Etapa Gragoatá
+    </h2>
+  </summary>
+  
+  - Data: 04/02/2024
+  - Distância: 10 Km
+  - Tempo:
+     * Bruto: 00:47:10
+     * Líquido: 00:47:08
+     * Ritmo por Km: 04:43
+  - Colocação:
+     * Geral: 46 / 185
+     * Por Categoria: 4 / 21
+     * Categoria: M3539
+  - Número de peito: 1322
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/10693377768
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      12/11/2023 - Off Road Niterói
+    </h2>
+  </summary>
+  
+  - Data: 12/11/2023
+  - Distância: 21,095 Km
+  - Tempo:
+     * Bruto: 2:29:31.28
+     * Líquido: 2:29:09.83
+     * Ritmo por Km: 07:06
+  - Colocação:
+     * Geral: 42
+     * Por Categoria: 10 / 16
+     * Categoria: M3039
+  - Número de peito: 2021
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/10205640006
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      28/10/2023 - XC Run Búzios 21k
+    </h2>
+  </summary>
+  
+  - Data: 28/10/2023
+  - Distância: 21,095 Km
+  - Tempo:
+       | **Trecho** |  **Tempo** | **Posição** |
+       |:----------:|:----------:|:-----------:|
+       | Levy - 1   | 1:07:38.21 |      89     |
+       | Levy - 2   | 1:39:18.34 |     163     |
+       | Nanci - 3  | 0:59:17.87 |      92     |
+       | Nanci - 4  | 1:25:57.69 |     115     | 
+  - Colocação:
+     * Geral: 
+     * Por Categoria: 
+     * Categoria: 
+  - Número de peito: 2029
+  - Equipe: 
+  - Strava: https://www.strava.com/activities/10118412525
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      10/09/2023 - Meia Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 10/09/2023
+  - Distância: 21,095 Km
+  - Tempo:
+     * Bruto: 1:57:42.14
+     * Líquido: 1:57:03.83
+     * Ritmo por Km: 05:36
+  - Colocação:
+     * Geral: 309
+     * Por Categoria: 84 / 178
+     * Categoria: M3039
+  - Número de peito: 2338
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/9820929740
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      20/08/2023 - 25 anos RF
+    </h2>
+  </summary>
+  
+  - Data: 20/08/2023
+  - Distância: 5 km
+  - Tempo:
+     * Bruto: 00:26:11
+     * Líquido: 00:26:11
+     * Ritmo por Km: 05:12
+  - Colocação:
+     * Geral: -
+     * Por Categoria: -
+     * Categoria: -
+  - Número de peito: 61
+  - Equipe: RF SPORTS
+  - Strava: https://www.strava.com/activities/9684573669
 
   ### Marcas
   PB / WR / OR
@@ -98,6 +399,34 @@ Description (to-do)
      * Categoria:
   - Número de peito: 22918
   - Equipe: -
+</details>
+
+<details>
+  <summary>
+    <h2>
+      07/05/2023 - Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 07/05/2023
+  - Distância: 10,5475 Km
+  - Tempo:
+       |   **Trecho**   |  **Tempo** | **Posição** |
+       |:--------------:|:----------:|:-----------:|
+       | Levy - 1       | 0:52:18.37 |      22     |
+       | Nanci - 2      | 0:54:27.13 |      34     |
+       | Fernanda - 3   | 1:06:08.21 |      47     |
+       | Vivian - 4     | 1:07:32.71 |      67     | 
+  - Colocação:
+     * Geral: 42
+     * Por Categoria: 23/51
+     * Categoria: Quarteto misto
+  - Número de peito: 4108
+  - Equipe: 
+  - Strava: [Strava](https://www.strava.com/activities/9025817375)
+
+  ### Marcas
+  PB / WR / OR
 </details>
 
 <details>
