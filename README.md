@@ -23,23 +23,22 @@ Description (to-do)
 # Corridas
 ## Próximas:
 
- - [x] 04/02/2024 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
- - [ ] 17/03/2024 - [Circuito Corridas Populares de Niterói - Etapa Centro](https://circuitocpn.com.br/)
- - [x] 04/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+ - [ ] 23/02/2025 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
+ - [ ] 06/04/2025 - [Meia Maratona Ponte Rio Niterói](https://www.instagram.com/canalpapodecorrida/p/C_L07m-S4Ox/)
+ - [ ] 27/04/2025 - [Circuito Corridas Populares de Niterói - Etapa São Francisco](https://circuitocpn.com.br/)
+ - [ ] 04/05/2025 - [TUTAN - Transmantiqueira Ultratrail Agulhas Negras 2025 - 21km](https://www.tutan.com.br/)
+ - [ ] ?? 04/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
  - [ ] ?? 05/05/2024 - [Meia Maratona das Cataratas](http://meiamaratonadascataratas.com.br/)
- - [x] 18/05/2024 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
- - [ ] 30/06/2024 - [Corrida da serra](https://corridadaserra.com.br/)
- - [ ] 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
- - [x] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
- - [x] 17/08/2024 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
- - [ ] ? 18/08/2024 - 26 anos RF
- - [x] 25/08/2024 - X run Camboinhas
- - [x] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
- - [ ] 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
+ - [ ] 13/07/2025 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
+ - [ ] ?? 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+ - [ ] ? 18/08/2024 - 27 anos RF
+ - [ ] ?? 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
+ - [ ] ?? 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
+ - [ ] 09/11/2025 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
  - [ ] ...
 
 [//]: # ( 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ )
-[//]: # ( 18/08/2024 - A Muralha Up and Down Marathon – Percurso UP-https://www.amuralha.com.br/ )
+[//]: # ( 18/08/2024 - A Muralha Up and Down Marathon - Percurso UP-https://www.amuralha.com.br/ )
 [//]: # ( teste )
 [//]: # ( * )
 
