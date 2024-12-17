@@ -31,8 +31,9 @@ Description (to-do)
  - [ ] 30/06/2024 - [Corrida da serra](https://corridadaserra.com.br/)
  - [ ] 14/07/2024 - [Asics Golden Run](https://asicsgoldenrun.com.br/rio-de-janeiro-2024/)
  - [x] 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
- - [ ] 17/08/2024 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
+ - [x] 17/08/2024 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
  - [ ] ? 18/08/2024 - 26 anos RF
+ - [x] 25/08/2024 - X run Camboinhas
  - [x] 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
  - [ ] 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
  - [ ] ...
@@ -110,6 +111,56 @@ Description (to-do)
 <details>
   <summary>
     <h2>
+      01/09/2024 - Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 01/09/2024
+  - Distância: 21,0975 Km
+  - Tempo:
+       |   **Trecho**   |  **Tempo** | **Posição** |
+       |:--------------:|:----------:|:-----------:|
+       | Carol - 1      | 2:03:03.26 |      72     |
+       | Levy - 2       | 1:53:56.34 |      57     |
+  - Colocação:
+     * Geral: 60/124
+     * Por Categoria: 18/45
+     * Categoria: Dupla misto
+  - Número de peito: 2043
+  - Equipe: RF SPORTS
+  - Strava: [Strava](https://www.strava.com/activities/12299122960)
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
+      04/08/2024 - Desafio Tupinambá 16k
+    </h2>
+  </summary>
+  
+  - Data: 04/08/2024
+  - Distância: 16 km
+  - Tempo:
+     * Bruto: 02:15:29.32
+     * Líquido: 02:15:25.76
+     * Ritmo por Km: 8:27
+  - Colocação:
+     * Geral: 39 / 118
+     * Por Categoria: 11 / 30
+     * Categoria: M3039
+  - Número de peito: 11115
+  - [Strava](https://www.strava.com/activities/12060816183)
+
+  ### Marcas
+  PB / WR / OR
+</details>
+
+<details>
+  <summary>
+    <h2>
       18/05/2024 - CPN - Etapa Camboinhas
     </h2>
   </summary>
@@ -142,7 +193,7 @@ Description (to-do)
   </summary>
   
   - Data: 04/05/2024
-  - Distância: 21,095 Km
+  - Distância: 21,097 Km
   - Tempo:
      * Bruto: 1:43:37.82
      * Líquido: 1:43:24.15
