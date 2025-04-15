@@ -21,64 +21,60 @@
 Description (to-do)
 
 # Corridas
+
 ## Próximas:
 
- - [ ] 23/02/2025 - [Circuito Corridas Populares de Niterói - Etapa Gragoatá](https://circuitocpn.com.br/)
- - [ ] 06/04/2025 - [Meia Maratona Ponte Rio Niterói](https://www.instagram.com/canalpapodecorrida/p/C_L07m-S4Ox/)
- - [ ] 27/04/2025 - [Circuito Corridas Populares de Niterói - Etapa São Francisco](https://circuitocpn.com.br/)
- - [ ] 04/05/2025 - [TUTAN - Transmantiqueira Ultratrail Agulhas Negras 2025 - 21km](https://www.tutan.com.br/)
- - [ ] ?? 04/05/2024 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
- - [ ] ?? 05/05/2024 - [Meia Maratona das Cataratas](http://meiamaratonadascataratas.com.br/)
- - [ ] 13/07/2025 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
- - [ ] ?? 04/08/2024 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
- - [ ] ? 18/08/2024 - 27 anos RF
- - [ ] ?? 01/09/2024 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
- - [ ] ?? 19/10/2024 - [XC Búzios](https://www.xcrun.com.br)
- - [ ] 09/11/2025 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
- - [ ] ...
+- [x] 25/05/2025 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
+- [ ] 13/07/2025 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
+- [ ] 03/08/2025 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+- [ ] ? 18/08/2025 - 27 anos RF
+- [ ] 14/09/2025 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
+- [ ] 25/10/2025 - [XC Búzios](https://www.xcrun.com.br)
+- [ ] ?? 09/11/2025 - [Circuito Corridas Populares de Niterói - Etapa Piratininga](https://circuitocpn.com.br/)
+- [ ] ...
 
-[//]: # ( 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ )
-[//]: # ( 18/08/2024 - A Muralha Up and Down Marathon - Percurso UP-https://www.amuralha.com.br/ )
-[//]: # ( teste )
-[//]: # ( * )
+[//]: # " 02/06/2024 - Maratona do Rio-https://maratonadorio.com.br/ "
+[//]: # " 18/08/2024 - A Muralha Up and Down Marathon - Percurso UP-https://www.amuralha.com.br/ "
+[//]: # " teste "
+[//]: # " * "
 
 ### Inspirações e metas a atingir:
 
- - [ ] 5km
- - [ ] 12:39 - [Babi Beluco](https://www.strava.com/athletes/10194365)
- - [ ] 17:35 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
- - [ ] 18:15 - [Valéria Mello](https://www.strava.com/athletes/72144448)
- - [ ] 18:21 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
- - [ ] 18:57 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
- - [ ] 21:19 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
- - [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
- - [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
- - [ ] 23:13 - [Levy Py](https://www.strava.com/athletes/15243537)
- - [x] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+- [ ] 5km
+- [ ] 12:39 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+- [ ] 17:35 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+- [ ] 18:15 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+- [ ] 18:21 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+- [ ] 18:57 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+- [ ] 21:19 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+- [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+- [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+- [ ] 23:13 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [x] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
- - [ ] 10km
- - [ ] 26:31 - [Babi Beluco](https://www.strava.com/athletes/10194365)
- - [ ] 35:42 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
- - [ ] 37:56 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
- - [ ] 38:58 - [Valéria Mello](https://www.strava.com/athletes/72144448)
- - [ ] 39:22 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
- - [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
- - [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
- - [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
- - [ ] 47:56 - [Levy Py](https://www.strava.com/athletes/15243537)
- - [x] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+- [ ] 10km
+- [ ] 26:31 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+- [ ] 35:42 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+- [ ] 37:56 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+- [ ] 38:58 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+- [ ] 39:22 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+- [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+- [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+- [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+- [ ] 47:56 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [x] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
- - [ ] 21.097,5m MEIA MARATONA
- - [ ] 1:23:00 - [Babi Beluco](https://www.strava.com/athletes/10194365)
- - [ ] 1:24:29 - [Valéria Mello](https://www.strava.com/athletes/72144448)
- - [ ] 1:25:03 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
- - [ ] 1:26:59 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
- - [ ] 1:34:30 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
- - [ ] 1:42:10 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
- - [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
- - [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
- - [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
- - [x] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
+- [ ] 21.097,5m MEIA MARATONA
+- [ ] 1:23:00 - [Babi Beluco](https://www.strava.com/athletes/10194365)
+- [ ] 1:24:29 - [Valéria Mello](https://www.strava.com/athletes/72144448)
+- [ ] 1:25:03 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
+- [ ] 1:26:59 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
+- [ ] 1:34:30 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
+- [ ] 1:42:10 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+- [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+- [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
+- [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [x] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 ## Anteriores:
 
@@ -101,10 +97,12 @@ Description (to-do)
      * Categoria: 
   - Número de peito: 
   - Equipe: 
-  - Strava: 
+  - Strava:
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -129,8 +127,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - Strava: [Strava](https://www.strava.com/activities/12299122960)
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -153,8 +153,10 @@ Description (to-do)
   - Número de peito: 11115
   - [Strava](https://www.strava.com/activities/12060816183)
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -178,10 +180,11 @@ Description (to-do)
   - Equipe: RF SPORTS
   - [Strava](https://www.strava.com/activities/11443258357)
 
-  ### Marcas
-  - Record Pessoal:
-     * 5 km: 22:58 / Pace 4:36 min/km
-     * 10 km: 47:39 / Pace 4:46 min/km
+### Marcas
+
+- Record Pessoal:
+_ 5 km: 22:58 / Pace 4:36 min/km
+_ 10 km: 47:39 / Pace 4:46 min/km
 </details>
 
 <details>
@@ -205,8 +208,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - [Strava](https://www.strava.com/activities/11331104370)
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -230,8 +235,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - Strava: https://www.strava.com/activities/10693377768
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -255,8 +262,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - Strava: https://www.strava.com/activities/10205640006
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -283,8 +292,10 @@ Description (to-do)
   - Equipe: 
   - Strava: https://www.strava.com/activities/10118412525
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -308,8 +319,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - Strava: https://www.strava.com/activities/9820929740
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -333,8 +346,10 @@ Description (to-do)
   - Equipe: RF SPORTS
   - Strava: https://www.strava.com/activities/9684573669
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
@@ -424,8 +439,10 @@ Description (to-do)
   - Equipe: 
   - Strava: [Strava](https://www.strava.com/activities/9025817375)
 
-  ### Marcas
-  PB / WR / OR
+### Marcas
+
+PB / WR / OR
+
 </details>
 
 <details>
