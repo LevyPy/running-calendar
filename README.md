@@ -26,7 +26,7 @@ Description (to-do)
 
 - [x] 25/05/2025 - [Meia Maratona de Niterói](https://www.meiamaratonadeniteroi.com.br)
 - [ ] 13/07/2025 - [Circuito Corridas Populares de Niterói - Etapa Camboinhas](https://circuitocpn.com.br/)
-- [ ] 03/08/2025 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
+- [x] 03/08/2025 - [Desafio Tupinambá 16k](https://www.nit2sports.com.br/event/desafiotupinamba/)
 - [ ] ? 18/08/2025 - 27 anos RF
 - [ ] 14/09/2025 - [Maratona de Niterói](https://maratonadeniteroi.com.br/)
 - [ ] 25/10/2025 - [XC Búzios](https://www.xcrun.com.br)
@@ -49,7 +49,7 @@ Description (to-do)
 - [ ] 21:19 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
 - [ ] 21:29 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
 - [ ] 21:44 - [Julio Lobo](https://www.strava.com/athletes/1839208)
-- [ ] 23:13 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [ ] 22:55 - [Levy Py](https://www.strava.com/athletes/15243537)
 - [x] 24:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 - [ ] 10km
@@ -61,7 +61,7 @@ Description (to-do)
 - [ ] 43:31 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
 - [ ] 44:25 - [Julio Lobo](https://www.strava.com/athletes/1839208)
 - [ ] 44:32 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
-- [ ] 47:56 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [ ] 46:40 - [Levy Py](https://www.strava.com/athletes/15243537)
 - [x] 49:14 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 - [ ] 21.097,5m MEIA MARATONA
@@ -70,10 +70,10 @@ Description (to-do)
 - [ ] 1:25:03 - [Rodrigo Ferreira](https://www.strava.com/athletes/2274221)
 - [ ] 1:26:59 - [Daniel Cosendey Ganimi](https://www.strava.com/athletes/46487569)
 - [ ] 1:34:30 - [Filipe Gervasio](https://www.strava.com/athletes/14341590)
-- [ ] 1:42:10 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
-- [ ] 1:45:02 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
-- [ ] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
-- [ ] 1:56:38 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [ ] 1:40:38 - [Levy Py](https://www.strava.com/athletes/15243537)
+- [x] 1:41:26 - [Eduardo Suzuki](https://www.strava.com/athletes/4310617)
+- [x] 1:43:39 - [Sarah Hartley](https://www.strava.com/athletes/30182153)
+- [x] 1:52:33 - [Julio Lobo](https://www.strava.com/athletes/1839208)
 - [x] 2:11:04 - [Carolina Fernandes](https://www.strava.com/athletes/117430251)
 
 ## Anteriores:
@@ -97,7 +97,64 @@ Description (to-do)
      * Categoria: 
   - Número de peito: 
   - Equipe: 
-  - Strava:
+  - Strava: [Strava](https://www.strava.com/activities/yyy)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/uuuu)
+
+### Marcas
+
+PB / WR / OR
+
+</details>
+
+<details>
+  <summary>
+    <h2>
+      03/08/2025 - Desafio Tupinambá 16k
+    </h2>
+  </summary>
+  
+  - Data: 03/08/2025
+  - Distância: 16 km
+  - Tempo:
+     * Bruto: 02:35:55
+     * Líquido: 02:35:51
+     * Ritmo por Km: 9:44
+  - Colocação:
+     * Geral: 69/135
+     * Por Categoria: 8/19
+     * Categoria: M3039
+  - Número de peito: 1078
+  - Equipe: 
+  - Strava: [Strava](https://www.strava.com/activities/15333229673)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/19939236002)
+
+### Marcas
+
+PB / WR / OR
+
+</details>
+
+<details>
+  <summary>
+    <h2>
+      25/05/2025 - Meia Maratona de Niterói
+    </h2>
+  </summary>
+  
+  - Data: 25/05/2025
+  - Distância: 21,0975 Km
+  - Tempo:
+     * Bruto: 1:43:21
+     * Líquido: 1:41:40
+     * Ritmo por Km: 4:50
+  - Colocação:
+     * Geral: 165/1318
+     * Por Categoria: 50/288
+     * Categoria: M3039
+  - Número de peito: 496
+  - Equipe: RF SPORTS
+  - Strava: [Strava](https://www.strava.com/activities/14590896954)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/19231019730)
 
 ### Marcas
 
@@ -126,6 +183,7 @@ PB / WR / OR
   - Número de peito: 2043
   - Equipe: RF SPORTS
   - Strava: [Strava](https://www.strava.com/activities/12299122960)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/16919772860)
 
 ### Marcas
 
@@ -152,6 +210,7 @@ PB / WR / OR
      * Categoria: M3039
   - Número de peito: 11115
   - [Strava](https://www.strava.com/activities/12060816183)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/16672973852)
 
 ### Marcas
 
@@ -179,6 +238,7 @@ PB / WR / OR
   - Número de peito: 1271
   - Equipe: RF SPORTS
   - [Strava](https://www.strava.com/activities/11443258357)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/15463104579)
 
 ### Marcas
 
@@ -207,6 +267,7 @@ _ 10 km: 47:39 / Pace 4:46 min/km
   - Número de peito: 2122
   - Equipe: RF SPORTS
   - [Strava](https://www.strava.com/activities/11331104370)
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/15222490929)
 
 ### Marcas
 
@@ -234,6 +295,7 @@ PB / WR / OR
   - Número de peito: 1322
   - Equipe: RF SPORTS
   - Strava: https://www.strava.com/activities/10693377768
+  - Garmin: [Connect](https://connect.garmin.com/modern/activity/13808181445)
 
 ### Marcas
 
