@@ -1,6 +1,6 @@
 # 🎯 Running Performance Goals
 
-*Track your running performance targets and achievements*
+_Track your running performance targets and achievements_
 
 ## 🏆 Distance-Based Goals
 
@@ -128,7 +128,7 @@
   </table>
 </details>
 
-<details>
+<details open>
   <summary><b>Half Marathon Goals</b></summary>
   
   <table>
@@ -230,13 +230,16 @@
 ## 🛠️ Maintenance Tips
 
 1. **Adding a new goal:**
+
    - Add a new row to the appropriate distance section table
    - Use the status emoji: 🎯 Goal, ✅ Achieved
 
 2. **Updating goal status:**
+
    - Change the status emoji from 🎯 to ✅ when achieved
 
 3. **Adding a new personal record:**
+
    - Add to the Personal Records table when you set a new record
    - Make sure to include all details (distance, time, pace, race, date)
 
