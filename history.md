@@ -1,6 +1,302 @@
 ## 🏁 Completed Races
 
+### 2026
+
+<details open>
+  <summary><b>Desafio Tupinambá 16k - 02/08/2026</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>02/08/2026</td>
+      <td><b>Gross Time:</b></td>
+      <td>02:48:16</td>
+      <td rowspan="2">🏃‍♂️ 10:33 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>66/90</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>16 km</td>
+      <td><b>Net Time:</b></td>
+      <td>02:48:16</td>
+      <td><b>Category:</b></td>
+      <td>13/15</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>1051</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">RF SPORTS</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/19574930704">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/23828990542">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">-</td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b>Desafio dos fortes - edição forte São Luis - 14/06/2026</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>14/06/2026</td>
+      <td><b>Gross Time:</b></td>
+      <td>00:52:25</td>
+      <td rowspan="2">🏃‍♂️ 6:21 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>63/276</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>8 km</td>
+      <td><b>Net Time:</b></td>
+      <td>00:52:18</td>
+      <td><b>Category:</b></td>
+      <td>10/78</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>509</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">RF SPORTS</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/18928660091">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/23256673623">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">-</td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b>Dia das mães → primeiros 6k da mãe - 10/05/2026</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>10/05/2026</td>
+      <td><b>Gross Time:</b></td>
+      <td>00:47:42</td>
+      <td rowspan="2">🏃‍♂️ 7:31 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>??/??</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>6 km</td>
+      <td><b>Net Time:</b></td>
+      <td>00:47:42</td>
+      <td><b>Category:</b></td>
+      <td>??/??</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>-</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">RF SPORTS</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/18453629950">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/22833591633">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">-</td>
+    </tr>
+  </table>
+</details>
+
 ### 2025
+
+<details open>
+  <summary><b>Desafio dos forte - 02/11/2025</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>02/11/2025</td>
+      <td><b>Gross Time:</b></td>
+      <td>01:03:15</td>
+      <td rowspan="2">🏃‍♂️ 5:15 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>159/486</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>12 km</td>
+      <td><b>Net Time:</b></td>
+      <td>01:03:00</td>
+      <td><b>Category:</b></td>
+      <td>51/142</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>1043</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">RF SPORTS</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/16331888356">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/20869385870">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">-</td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b>Veg Run Virtual - com Amandy - 26/10/2025</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>26/10/2025</td>
+      <td><b>Gross Time:</b></td>
+      <td>01:08:05</td>
+      <td rowspan="2">🏃‍♂️ 8:10 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>??/??</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>8 km</td>
+      <td><b>Net Time:</b></td>
+      <td>01:08:05</td>
+      <td><b>Category:</b></td>
+      <td>??/??</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>-</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">-</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/16261253923">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/20801905025">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">Treino anual da RF</td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b>Camboinhas XRun - edição Run Point 10k - 31/08/2025</b></summary>
+  
+  <table>
+    <tr>
+      <th colspan="2">Race Information</th>
+      <th colspan="3">Performance</th>
+      <th colspan="3">Placement</th>
+    </tr>
+    <tr>
+      <td><b>Date:</b></td>
+      <td>31/08/2025</td>
+      <td><b>Gross Time:</b></td>
+      <td>01:07:19</td>
+      <td rowspan="2">🏃‍♂️ 6:30 min/km</td>
+      <td><b>Overall:</b></td>
+      <td>??/??</td>
+      <td rowspan="3">🏆 M3039</td>
+    </tr>
+    <tr>
+      <td><b>Distance:</b></td>
+      <td>10 km</td>
+      <td><b>Net Time:</b></td>
+      <td>01:07:19</td>
+      <td><b>Category:</b></td>
+      <td>??/??</td>
+    </tr>
+    <tr>
+      <td><b>Bib #:</b></td>
+      <td>-</td>
+      <td><b>Team:</b></td>
+      <td colspan="2">-</td>
+      <td><b>Status:</b></td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Activities:</b></td>
+      <td colspan="6">
+        <a href="https://www.strava.com/activities/15653876778">Strava</a> | 
+        <a href="https://connect.garmin.com/app/activity/20240525047">Garmin Connect</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notes:</b></td>
+      <td colspan="6">Treino anual da RF</td>
+    </tr>
+  </table>
+</details>
 
 <details open>
   <summary><b>Desafio Tupinambá 16k - 03/08/2025</b></summary>

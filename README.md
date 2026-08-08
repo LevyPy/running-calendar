@@ -1,6 +1,8 @@
 # To-dos:
 
 - [ ] Telas do Fenix -> 
+- [ ] Norma 7 cBAT
+- [ ] Norma 240 World Athletics
 
 # 🏃‍♂️ Running Calendar Repository
 
